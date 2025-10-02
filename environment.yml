@@ -1,0 +1,13 @@
+name: lfp_manifold
+channels:
+  - default
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - h5py
+  - ipykernel
+  - joblib
+  - scipy
+  - seaborn
+  - statsmodels
