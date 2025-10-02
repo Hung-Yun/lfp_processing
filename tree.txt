@@ -1,0 +1,69 @@
+.
+├── fortune
+│   ├── noPHIEMU-0037_subj-YFD_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0038_subj-YFD_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0039_subj-YFD_task-WheelOfFortune_run-03_NSP-2.ns5
+│   ├── noPHIEMU-0040_subj-YFD_task-WheelOfFortune_run-04_NSP-2.ns5
+│   ├── noPHIEMU-0044_subj-YFF_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0045_subj-YFF_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0046_subj-YFF_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0047_subj-YFF_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0048_subj-YFJ_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0049_subj-YFJ_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0054_subj-YEZ_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0054_subj-YFB_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0055_subj-YEZ_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0055_subj-YFB_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0056_subj-YEZ_task-WheelOfFortune_run-03_NSP-2.ns5
+│   ├── noPHIEMU-0057_subj-YEZ_task-WheelOfFortune_run-04_NSP-2.ns5
+│   ├── noPHIEMU-0063_subj-YFC_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0064_subj-YFC_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0129_subj-YFI_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0130_subj-YFA_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-0130_subj-YFI_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0131_subj-YFA_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-0132_subj-YFA_task-WheelOfFortune_run-03_NSP-2.ns5
+│   ├── noPHIEMU-0133_subj-YFA_task-WheelOfFortune_run-04_NSP-2.ns5
+│   ├── noPHIEMU-049_subj-YEW_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-050_subj-YEW_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-051_subj-YEW_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-052_subj-YEW_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-070_subj-YEX_task-WheelOfFortune_run-01_NSP-2.ns5
+│   ├── noPHIEMU-071_subj-YEX_task-WheelOfFortune_run-02_NSP-2.ns5
+│   ├── noPHIEMU-072_subj-YEX_task-WheelOfFortune_run-03_NSP-2.ns5
+│   └── noPHIEMU-073_subj-YEX_task-WheelOfFortune_run-04_NSP-2.ns5
+├── podcast
+│   ├── EMU-0015_podcast_NSP-2.ns5
+│   ├── EMU-0016_podcast_NSP-2.ns5
+│   ├── EMU-0040_podcast_NSP-2.ns5
+│   ├── EMU-0042_podcast_NSP-2.ns5
+│   ├── EMU-0072_podcast_NSP-2.ns5
+│   ├── EMU-0092_podcast_NSP-2.ns5
+│   ├── EMU-0092_yfa_podcast_NSP-2.ns5
+│   ├── YEX_task96_dataCombined.ns5
+│   └── YEX_task99_dataCombined.ns5
+├── pursuit
+│   ├── EMU-0011_subj-YFD_task-Pacman_time-20240731_111516_NSP-2.ns5
+│   ├── EMU-0014_subj-YFF_task-Pacman_time-20240821_113346_NSP-2.ns5
+│   ├── EMU-0025_subj-YFC_task-Pacman_time-20240720_113647_NSP-2.ns5
+│   ├── EMU-0044_subj-YFB_task-Pacman_time-20240506_115804_NSP-2.ns5
+│   ├── EMU-0046_subj-YEZ_task-Pacman_time-20240411_103625_NSP-2.ns5
+│   ├── EMU-0047_subj-YFJ_task-Pacman_time-20241108_153018_NSP-2.ns5
+│   ├── EMU-0054_subj-YFC_task-Pacman_time-20240723_144620_NSP-2.ns5
+│   ├── EMU-0090_subj-YEY_task-Pacman_time-20240402_124118_NSP-2.ns5
+│   ├── EMU-0090_subj-YFA_task-Pacman_time-20240424_142255_NSP-2.ns5
+│   ├── EMU-033_subj-YEW_task-Pacman_time-20231116_100553_NSP-2002.ns5
+│   ├── EMU-036_subj-YEW_task-Pacman_time-20231116_111127_NSP-2005.ns5
+│   ├── EMU-081_subj-YEX_task-Pacman_time-20240207_164159_NSP-2.ns5
+│   └── EMU-088_subj-YEX_task-Pacman_time-20240208_110542_NSP-2.ns5
+└── rotations
+    ├── EMU-0020_subj-YFD_task-MentalRotationXbox_run-1_NSP-2.ns5
+    ├── EMU-0039_subj-YEZ_task-MentalRotation_run-1_NSP-2.ns5
+    ├── EMU-0045_subj-YFJ_task-MentalRotationXbox_run-2_NSP-2.ns5
+    ├── EMU-0071_subj-YEY_task-MentalRotation_run-1_NSP-2.ns5
+    ├── EMU-0099_subj-YFI_task-MentalRotationXbox_run-1_NSP-2.ns5
+    ├── EMU-0125_subj-YFA_task-MentalRotation_run-1_NSP-2.ns5
+    ├── EMU-037_subj-YEW_task-MentalRotation_run-2_NSP-2006.ns5
+    └── EMU-095_subj-YEX_task-MentalRotation_run-1_NSP-2.ns5
+
+5 directories, 62 files
